@@ -1,1 +1,2 @@
 # acodionMenu
+アコーディオンメニューをJavaScriptで作ってみただけです
